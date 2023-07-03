@@ -1,5 +1,7 @@
 # Nordlys arkitekturen for Microsoft skyplattformer.
-Velkommen til Nordlys arkitekturen for Microsoft skyplattformer! Dette prosjektet implementerer og understøtter prinsipper når organisasjoner og/eller bedrifter ønsker ta i bruk Microsoft skyplattformer basert på gode praksiser og rekomendasjoner fra Microsoft.
+Velkommen til Nordlys arkitekturen for Microsoft skyplattformer! Dette prosjektet implementerer og understøtter prinsipper når organisasjoner som kommuner og/eller bedrifter ønsker ta i bruk Microsoft skyplattformer basert på gode praksiser og rekomendasjoner fra Microsoft. Prosjektet Nordlys baseres på andre initiativer Microsoft støtter for å sikkre gode implemenatsjoner og har tilpassninger og eksempel-implemenasjoner basert på Norske forhold (strukturer og prinsipper) som feks NSMs grunnprinsipper for IT sikkerhet implementert som standard policy initiativer for å sikkre norske sky-miljøer.
+
+Vi trur at å harmonisere hvordan fundamentale aspekter og tjenester tas i bruk og integreres har stor effekt i å akselerere og effektivisere operasjonalisering av komplekse driftsmiljøer.
 
 Prosjektet er ment å veilede med Norske tilpassninger og baseres i hovedsak på kjente etablerte delprosjekter for de ulike skyplattformer Microsoft tilbyr som Azure Landing Zones, Power Platform Landing Zones (inkludert Dynamics365) og Microsoft 365.
 
