@@ -5,8 +5,11 @@ Prosjektet er ment å veilede med Norske tilpassninger og baseres i hovedsak på
 
 ### Delprosjekter
 * [Nordlys arkitekturen for Azure landingsoner](https://github.com/johla/Nordlys-Azure-Landing-Zones/blob/aurora-genesis/README-no.md)
-* Nordlys arkitekturen for Power PLatform landingsoner - Under utarbeidelse!
-* Nordlys arkitekturen for Microsoft Fabric landingsoner - Under utarbeidelse!
+* Nordlys arkitekturen for Power Platform og Dynamics 365 landingsoner - Under utarbeidelse!
+* Nordlys arkitekturen for Microsoft 365 landingsoner - Under utarbeidelse!
+* Nordlys arkitekturen for Microsoft Fabric landingsoner - Under utarbeidelse
+
+![Nordlys arkitekturen](./docs/images/nordlys.png)
 
 ---
 
